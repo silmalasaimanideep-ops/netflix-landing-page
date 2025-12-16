@@ -4,9 +4,9 @@ A fully responsive clone of the **Netflix India landing page**, built using **HT
 
 ---
 
-## 📸 Preview
+## Live Demo
 
-*(Add screenshots)*
+ Link : https://silmalasaimanideep-ops.github.io/netflix-landing-page/
 
 ---
 
